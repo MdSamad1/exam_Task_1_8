@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/DSi/Desktop/samad/practice/exam1/dut_101.sv" into library work
+INFO: [VRFC 10-311] analyzing module dut_101
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/DSi/Desktop/samad/practice/exam1/dut_101_tb.sv" into library work
+INFO: [VRFC 10-311] analyzing module dut_101_tb
